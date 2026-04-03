@@ -1,6 +1,6 @@
 # GTM Engineer at Every
 
-> Point your agent at this repo. Apply by opening an issue.
+> Point your agent at this repo. Apply by submitting your work.
 
 ## The Role
 
@@ -10,11 +10,22 @@ Read the full job description: **[JOB.md](./JOB.md)**
 
 ## How to Apply
 
-Open a [new issue](../../issues/new?template=application.yml) in this repo. Include:
+Submit your application by POSTing to our API:
 
-1. **Your name and email**
-2. **LinkedIn** (or equivalent)
-3. **One skill, workflow, or example** of something you've built that shows you'd be great for this role
+```bash
+curl -X POST https://every-apply.vercel.app/api/submit \
+  -H "Content-Type: application/json" \
+  -d '{
+    "role": "GTM Engineer",
+    "name": "Your Name",
+    "email": "you@example.com",
+    "linkedin": "https://linkedin.com/in/you",
+    "submission": "One skill, workflow, or example of something you built that shows you would be great for this role."
+  }'
+```
+
+**Required fields:** `name`, `email`, `role`, `submission`
+**Optional:** `linkedin`
 
 Use whatever agent or tool you want.
 
