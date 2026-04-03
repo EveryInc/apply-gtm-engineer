@@ -4,7 +4,7 @@
 
 ## The Role
 
-Every is the only subscription you need to stay at the edge of AI. We publish daily for 150K+ readers, build five AI products, and run AI consulting for Fortune 500 companies. We need a growth engineer to build the experimentation and analytics systems that scale us from $200K to $500K MRR.
+Every is the only subscription you need to stay at the edge of AI. We publish daily for 130K+ readers, build five AI products, and run AI consulting for Fortune 500 companies. We need a growth engineer to build the experimentation and analytics systems that scale us from $200K to $500K MRR.
 
 Read the full job description: **[JOB.md](./JOB.md)**
 
