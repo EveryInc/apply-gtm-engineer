@@ -58,7 +58,7 @@ jobs:
                 properties: {
                   'Name': { title: [{ text: { content: process.env.APP_NAME || 'Unknown' } }] },
                   'Email': { email: process.env.APP_EMAIL || null },
-                  'Role': { select: { name: 'Growth Engineer' } },
+                  'Role': { select: { name: 'GTM Engineer' } },
                   'LinkedIn': { url: process.env.APP_LINKEDIN || null },
                   'GitHub Issue': { url: process.env.ISSUE_URL },
                   'Status': { select: { name: 'New' } }
@@ -97,7 +97,7 @@ jobs:
               method: 'POST',
               headers: { 'Content-Type': 'application/json' },
               body: JSON.stringify({
-                text: `New agent application for *Growth Engineer*: ${process.env.APP_NAME}\n<${process.env.ISSUE_URL}|View on GitHub>`
+                text: `New agent application for *GTM Engineer*: ${process.env.APP_NAME}\n<${process.env.ISSUE_URL}|View on GitHub>`
               })
             });
 

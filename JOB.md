@@ -1,39 +1,30 @@
-# Growth Engineer
+# GTM Engineer at Every
 
-**Team:** Growth | **Reports to:** Austin Tedesco, Head of Growth | **Location:** Remote (NYC HQ)
+We're looking for a GTM engineer to move the metrics that matter — building and shipping data-driven experiments that drive subscriber acquisition, activation, monetization, and retention. You'll own end-to-end execution of growth optimizations across our conversion funnel, working cross-functionally with product GMs, editorial, and design to scale the Every bundle.
 
----
-
-## The role
-
-Every is the only subscription you need to stay at the edge of AI. We publish daily for 130K+ readers. We build five AI products (Spiral, Cora, Sparkle, Monologue, Plus One). We run AI transformation consulting for hedge funds, PE firms, and Fortune 500 companies. We just hit $204K MRR — our strongest month ever — and we're targeting $500K by year-end.
-
-We need a growth engineer to build the systems that get us there.
-
-This is not a "growth hacking" role. You're not going to run Facebook ads or write blog posts. You're going to build the experimentation framework, analytics infrastructure, and conversion optimization that scales Every from 100K to 1M subscribers. You'll ship 2-4 experiments per week, measure everything, and iterate fast.
-
-Our codebase is 100% AI-written. Engineers pair with Claude Code agents. We open-sourced the workflow and it has 11K+ GitHub stars as Compound Engineering. If you're not already building with AI coding tools, this isn't the right fit.
+The team at Every lives at the bleeding edge of what's possible with agents and AI. The people who work here are trusted by the top players in the space, from the teams building the models to the companies deploying them. In this role, you'll be empowered to lead the way on what's possible in agent-native GTM engineering.
 
 ## What you'll do
 
-- **Design and run experiments.** 2-4+ A/B tests per week across acquisition, activation, monetization, and retention. You own the hypothesis, the implementation, and the analysis.
-- **Build the growth stack.** Experimentation framework, analytics pipelines, event tracking, attribution modeling. PostHog, Stripe, Rails, Kit (ConvertKit). If we don't have it, you build it.
-- **Ship full-stack features.** Landing pages, onboarding flows, pricing experiments, CTA optimization, email sequences. You write the code and push the PR.
-- **Work cross-functionally.** You'll collaborate directly with product GMs (Spiral, Cora, Sparkle, Monologue), Editorial, Consulting, and Product Marketing. Small team, no layers.
-- **Run the data.** Own growth metrics. Build dashboards. Know the numbers better than anyone. When something moves, you know why.
+**Move the metrics that matter**
+- Design and run A/B tests to improve sign-ups, ecosystem activation, subscription conversion, and retention.
+- Build 2-4+ experiments per week across the conversion funnel
+
+**Build our growth infrastructure**
+- Create the experimentation framework Every needs to grow quickly: A/B testing, analytics instrumentation, experiment tracking
+- Build systems for targeting, segmentation, and attribution
+
+**Ship high-leverage, agentic growth features**
+- Manage agents to take projects from hypothesis to shipped code to analyzed results
+- Work cross-functionally with product GMs, Editorial, Consulting, Product Marketing, and Platform
 
 ## What we're looking for
 
-- **2+ years shipping user-facing features** in a growth, product, or engineering role. Show us what you shipped and what it moved.
-- **AI-native builder.** You're already using Claude Code, Cursor, Codex, or similar tools daily. You don't need permission to use AI — you can't imagine working without it.
-- **Full-stack capable.** Front-end, back-end, whatever the experiment needs. We're a Rails shop with PostHog analytics and Stripe billing. Tech-stack flexibility matters more than specific framework experience.
-- **Data-driven but not paralyzed.** You form hypotheses, test them, read results, and move. Perfect is the enemy of shipped.
-- **Comfortable with ambiguity.** Small team, big scope. You'll define your own priorities based on what the data tells you. No one is going to hand you a sprint backlog.
+**2+ years of experience shipping user-facing features**
+- You've built and shipped features that moved meaningful product or business metrics
+- Experience with growth engineering, conversion optimization, or product engineering at a startup or high-growth company
+- Tech-stack agnostic with the ability to work on front-end, back-end, and mobile
 
-## Why Every
-
-- **100% AI-native workflow.** You'll work the way the future works — today. Pair programming with AI agents, not Jira tickets.
-- **Ship daily.** Everyone on this team ships at least one thing every day. A landing page, an experiment, a data pipeline. No status meetings about status meetings.
-- **Real products, real users.** This isn't a side project. 5 AI products, 130K+ subscribers, $200K+ MRR, consulting clients managing $100B+ in assets.
-- **Direct access.** You'll work directly with the CEO (Dan Shipper — TED speaker, cited by NYT), Head of Growth, and COO. Backed by Reid Hoffman.
-- **Define the playbook.** There's no legacy growth team to inherit. You're building the systems from scratch. At a company growing 12%+ month-over-month, the leverage is enormous.
+**AI-forward and data-driven**
+- You're already using AI coding tools to accelerate your work
+- You take a data-driven approach to problem-solving, blending a priority for speed with experimental rigor

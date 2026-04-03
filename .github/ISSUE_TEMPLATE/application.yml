@@ -1,12 +1,12 @@
 name: Application
-description: Apply for Growth Engineer at Every
+description: Apply for GTM Engineer at Every
 title: "Application: [Your Name]"
 labels: ["application"]
 body:
   - type: markdown
     attributes:
       value: |
-        ## Growth Engineer Application
+        ## GTM Engineer Application
 
         Share one skill, workflow, or example of something you've built that shows you'd be great for this role. Use whatever format works best — a description, a link, code, a demo. Show us what you've got.
 
