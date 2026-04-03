@@ -83,6 +83,24 @@ jobs:
               core.setFailed(`Notion API error: ${response.status} ${err}`);
             }
 
+      - name: Notify Slack
+        if: success()
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          APP_NAME: ${{ steps.parse.outputs.name }}
+          ISSUE_URL: ${{ github.event.issue.html_url }}
+        uses: actions/github-script@v7
+        with:
+          script: |
+            if (!process.env.SLACK_WEBHOOK_URL) return;
+            await fetch(process.env.SLACK_WEBHOOK_URL, {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({
+                text: `New agent application for *Growth Engineer*: ${process.env.APP_NAME}\n<${process.env.ISSUE_URL}|View on GitHub>`
+              })
+            });
+
       - name: Comment on issue
         uses: actions/github-script@v7
         with:
