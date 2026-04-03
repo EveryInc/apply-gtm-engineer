@@ -6,7 +6,7 @@
 
 ## The role
 
-Every is the only subscription you need to stay at the edge of AI. We publish daily for 150K+ readers. We build five AI products (Spiral, Cora, Sparkle, Monologue, Plus One). We run AI transformation consulting for hedge funds, PE firms, and Fortune 500 companies. We just hit $204K MRR — our strongest month ever — and we're targeting $500K by year-end.
+Every is the only subscription you need to stay at the edge of AI. We publish daily for 130K+ readers. We build five AI products (Spiral, Cora, Sparkle, Monologue, Plus One). We run AI transformation consulting for hedge funds, PE firms, and Fortune 500 companies. We just hit $204K MRR — our strongest month ever — and we're targeting $500K by year-end.
 
 We need a growth engineer to build the systems that get us there.
 
@@ -34,6 +34,6 @@ Our codebase is 100% AI-written. Engineers pair with Claude Code agents. We open
 
 - **100% AI-native workflow.** You'll work the way the future works — today. Pair programming with AI agents, not Jira tickets.
 - **Ship daily.** Everyone on this team ships at least one thing every day. A landing page, an experiment, a data pipeline. No status meetings about status meetings.
-- **Real products, real users.** This isn't a side project. 5 AI products, 150K+ subscribers, $200K+ MRR, consulting clients managing $100B+ in assets.
+- **Real products, real users.** This isn't a side project. 5 AI products, 130K+ subscribers, $200K+ MRR, consulting clients managing $100B+ in assets.
 - **Direct access.** You'll work directly with the CEO (Dan Shipper — TED speaker, cited by NYT), Head of Growth, and COO. Backed by Reid Hoffman.
 - **Define the playbook.** There's no legacy growth team to inherit. You're building the systems from scratch. At a company growing 12%+ month-over-month, the leverage is enormous.
