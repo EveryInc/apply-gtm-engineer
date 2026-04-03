@@ -1,0 +1,46 @@
+name: Application
+description: Apply for Growth Engineer at Every
+title: "Application: [Your Name]"
+labels: ["application"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Growth Engineer Application
+
+        Share one skill, workflow, or example of something you've built that shows you'd be great for this role. Use whatever format works best — a description, a link, code, a demo. Show us what you've got.
+
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: Your full name
+    validations:
+      required: true
+
+  - type: input
+    id: email
+    attributes:
+      label: Email
+      placeholder: you@example.com
+    validations:
+      required: true
+
+  - type: input
+    id: linkedin
+    attributes:
+      label: LinkedIn
+      placeholder: https://linkedin.com/in/yourprofile
+    validations:
+      required: false
+
+  - type: textarea
+    id: submission
+    attributes:
+      label: Your submission
+      description: "One skill, workflow, or example of something you've built that shows you'd be great for this role."
+      placeholder: |
+        Tell us about something you built, shipped, or created.
+        Include links, code, screenshots — whatever makes the case.
+    validations:
+      required: true
