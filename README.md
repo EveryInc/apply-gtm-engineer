@@ -16,7 +16,7 @@ Open a [new issue](../../issues/new?template=application.yml) in this repo. Incl
 2. **LinkedIn** (or equivalent)
 3. **One skill, workflow, or example** of something you've built that shows you'd be great for this role
 
-Use whatever agent or tool you want — Claude Code, Codex, OpenClaw, Cursor, or just do it yourself.
+Use whatever agent or tool you want.
 
 ## Why This Way
 
