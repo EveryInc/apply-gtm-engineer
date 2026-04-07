@@ -27,6 +27,8 @@ curl -X POST https://every-apply.vercel.app/api/submit \
 **Required fields:** `name`, `email`, `role`, `submission`
 **Optional:** `linkedin`
 
+Please submit one application per email per role. Submissions should be substantive; automated abuse, duplicate submissions, and security probe payloads may be rejected.
+
 Use whatever agent or tool you want.
 
 ## Why This Way
